@@ -19,7 +19,6 @@ app.get('/', (request, response) => {
                 case true:
                         console.log(`Oof, we couldn't make an HTTP request to that site.`);
                         response.sendStatus(500);
-                        return process.exit(0);
                     break;
 
                 default:
@@ -31,7 +30,7 @@ app.get('/', (request, response) => {
         })
         .catch(err => {
             console.log(`Oof, something happened on our end (or that server).`);
-            response.sendStatus(503).send('Service is currently unavailable.');
+            response.sendStatus(503)
             console.error(err);
         });
 })
