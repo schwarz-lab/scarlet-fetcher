@@ -34,7 +34,7 @@ app.get('/', (request, response) => {
         });
 });
 
-app.get('*' (req, res) => {
+app.get('*', (req, res) => {
     res.sendStatus(404);
     return res.end();
 });
