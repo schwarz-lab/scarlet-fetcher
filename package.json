@@ -4,7 +4,7 @@
   "description": "Some ping service (to keep the site up? not tested yet, can't think of a name for a project.) ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "npm install && node ."
   },
   "author": "Nexus Labs Ltd.",
