@@ -18,12 +18,14 @@ app.get('/', (request, response) => {
             switch (!data) {
                 case true:
                         console.log(`Oof, we couldn't make an HTTP request to that site.`);
-                        response.sendStatus(500).send('Internal server error.');
+                        response.sendStatus(500);
+                        return process.exit(0);
                     break;
 
                 default:
                         console.log(`Received a response from the site.`);
-                        response.sendStatus(200).send('Welcome to the server.');
+                        response.sendStatus(200);
+                        return process.exit(0);
                     break;
             }
         })
