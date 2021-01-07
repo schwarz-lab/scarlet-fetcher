@@ -34,7 +34,10 @@ app.get('/', (request, response) => {
         });
 });
 
-app.get('*' (req, res) => res.sendStatus(404));
+app.get('*' (req, res) => {
+    res.sendStatus(404);
+    return res.end();
+});
 
 const listener = app.listen(process.env.PORT, () => {
     console.log(`Listening on port ${listener.address().port}.`);
