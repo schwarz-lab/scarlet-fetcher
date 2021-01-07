@@ -18,18 +18,18 @@ app.get('/', (request, response) => {
             switch (!data) {
                 case true:
                         console.log(`Oof, we couldn't make an HTTP request to that site.`);
-                        res.sendStatus(500).send('Internal server error.');
+                        response.sendStatus(500).send('Internal server error.');
                     break;
 
                 default:
                         console.log(`Received a response from the site.`);
-                        res.sendStatus(200).send('Welcome to the server.');
+                        response.sendStatus(200).send('Welcome to the server.');
                     break;
             }
         })
         .catch(err => {
             console.log(`Oof, something happened on our end (or that server).`);
-            res.sendStatus(503).send('Service is currently unavailable.');
+            response.sendStatus(503).send('Service is currently unavailable.');
             console.error(err);
         });
 })
