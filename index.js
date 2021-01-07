@@ -24,16 +24,17 @@ app.get('/', (request, response) => {
                 default:
                         console.log(`Received a response from the site.`);
                         response.sendStatus(200);
-                        return process.exit(0);
                     break;
             }
         })
         .catch(err => {
             console.log(`Oof, something happened on our end (or that server).`);
-            response.sendStatus(503)
+            response.sendStatus(503);
             console.error(err);
         });
-})
+});
+
+app.get('*' (req, res) => res.sendStatus(404));
 
 const listener = app.listen(process.env.PORT, () => {
     console.log(`Listening on port ${listener.address().port}.`);
