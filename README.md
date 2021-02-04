@@ -7,7 +7,7 @@
   </p>
   </br></br>
   <i style="font-size: '25px'">
-    There's a chance that it works on Glitch, but we recommend to use it at your own risk.
+    There's a chance that it works on Glitch, but we recommend to use it at your own risk. </br>
     We are not responsible and liable for any damages caused through use.
   </i>
 </div>
