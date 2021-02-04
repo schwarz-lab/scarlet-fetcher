@@ -7,13 +7,9 @@
     <i>Not quite guaranteed to run 24/7, depends on setup.</i>
   </p></br>
   
-  <pre>
-    <i style="font-size: '10px'">Instructions on how to setup this app.</i>
-    <code><p style="font-size: '25px'">〘１〙</p></code> | 
-    <code><p style="font-size: '25px'">〘２〙</p></code> | 
-    <code><p style="font-size: '25px'">〘３〙</p></code> | 
-    <code><p style="font-size: '25px'">〘４〙</p></code> | 
-  </pre></br>
+  <i style="font-size: '10px'">Instructions on how to setup this app.</i>
+  <code><p>〘１〙</p></code> | <code><p>〘２〙</p></code> | <code><p>〘３〙</p></code> | <code><p>〘４〙</p></code>
+  </br>
   
   <i style="font-size: '25px'">
     There's a chance that it works on Glitch, but we recommend to use it at your own risk. </br>
