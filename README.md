@@ -7,13 +7,13 @@
     <i>Not quite guaranteed to run 24/7, depends on setup.</i>
   </p>
   
-  </br></br>
+  </br>
     <i style="font-size: '10px'">Instructions on how to setup this app.</i>
-    <code><p style="font-size: '25px'">〘１〙</p></code>
-    <code><p style="font-size: '25px'">〘２〙</p></code>
-    <code><p style="font-size: '25px'">〘３〙</p></code>
-    <code><p style="font-size: '25px'">〘４〙</p></code>
-  </br></br>
+    <code><p style="font-size: '25px'">〘１〙</p></code> | 
+    <code><p style="font-size: '25px'">〘２〙</p></code> | 
+    <code><p style="font-size: '25px'">〘３〙</p></code> | 
+    <code><p style="font-size: '25px'">〘４〙</p></code> | 
+  </br>
   
   
   <i style="font-size: '25px'">
