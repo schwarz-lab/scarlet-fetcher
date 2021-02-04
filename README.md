@@ -4,5 +4,5 @@
   Some ping service for Repl.it to keep your project up.
   </br></br>
   There's a chance that it works on Glitch, but we recommend to use it at your own risk.
-  We do not take any responsibility and we are not liable for any damage caused through use.
+  We are not responsible and liable for any damages caused through use.
 </div>
