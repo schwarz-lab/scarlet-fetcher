@@ -7,5 +7,5 @@
 </div>
 
 <div align="center">
-  </br><code>〘１〙</code> | <code><a href="">〘２〙</a></code> | <code><a href="">〘３〙</a></code> | <code><a href="">〘４〙</a></code>
+  </br><code>〘１〙</code> | <code><a href="">〘２〙</a></code> | <code><a href="">〘３〙</a></code>
 </div>
