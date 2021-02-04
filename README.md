@@ -7,7 +7,7 @@
     <i>Not quite guaranteed to run 24/7, depends on setup.</i>
   </p></br>
   
-  <i style="font-size: '10px'">Instructions on how to setup this app.</i>
+  <i style="font-size: '10px'">Instructions on how to setup this app.</i></br>
   <code>〘１〙</code> | <code>〘２〙</code> | <code>〘３〙</code> | <code>〘４〙</code>
   </br>
   
