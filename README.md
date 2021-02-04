@@ -13,5 +13,5 @@
   </i></br></br>
   
   <i style="font-size: '10px'">Instructions on how to setup this app.</i></br>
-  <code><a href="">〘１〙</a></code> | <code><a href="">〘２〙</a></code> | <code><a href="">〘３〙</a></code>
+  <code><a href="./setup/Step%201.md">〘１〙</a></code> | <code><a href="./setup/Step%202.md">〘２〙</a></code> | <code><a href="./setup/Step%203.md">〘３〙</a></code>
 </div>
