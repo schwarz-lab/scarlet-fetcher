@@ -8,7 +8,7 @@
   </p></br>
   
   <i style="font-size: '10px'">Instructions on how to setup this app.</i>
-  <code><p>〘１〙</p></code> | <code><p>〘２〙</p></code> | <code><p>〘３〙</p></code> | <code><p>〘４〙</p></code>
+  <code>〘１〙</code> | <code>〘２〙</code> | <code>〘３〙</code> | <code>〘４〙</code>
   </br>
   
   <i style="font-size: '25px'">
